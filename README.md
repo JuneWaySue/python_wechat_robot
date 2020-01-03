@@ -1,5 +1,7 @@
 # python_wechat_robot
-python实现微信自动回复机器人+查看撤回消息
+python实现微信自动回复机器人+查看撤回消息 
+
+# 更多好玩的内容请关注我的博客https://blog.csdn.net/sinat_39629323
 
 # python实现微信自动回复机器人+查看别人撤回的消息（部署到云服务器）
 # 前言
